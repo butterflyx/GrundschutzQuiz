@@ -295,7 +295,7 @@
 				"right":["A","B","C","D"]
 			},
 			"10" : {
-				"question":"Welche Aussagen zu Prozessen im Rahmen einer einer Business Impact Analyse sind richtig?",
+				"question":"Welche Aussagen zu Prozessen im Rahmen einer Business Impact Analyse sind richtig?",
 				"answers":{
 					"A":"In einer Business Impact Analyse muss man Hauptprozesse und Begleitprozesse unterscheiden",
 					"B":"In einer Business Impact Analyse muss man Kernprozesse und Hilfsprozesse unterscheiden",
